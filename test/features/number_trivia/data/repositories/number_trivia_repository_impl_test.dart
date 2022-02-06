@@ -1,6 +1,6 @@
 import 'package:cleantdd/core/error/exceptions.dart';
 import 'package:cleantdd/core/error/failures.dart';
-import 'package:cleantdd/core/platform/network_info.dart';
+import 'package:cleantdd/core/network/network_info.dart';
 import 'package:cleantdd/features/number_trivia/data/datasources/number_trivia_local_data_source.dart';
 import 'package:cleantdd/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
 import 'package:cleantdd/features/number_trivia/data/models/number_trivia_model.dart';
