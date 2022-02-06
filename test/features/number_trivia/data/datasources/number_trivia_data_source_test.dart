@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'dart:ffi';
 
 import 'package:cleantdd/core/error/exceptions.dart';
 import 'package:cleantdd/features/number_trivia/data/datasources/number_trivia_local_data_source.dart';
